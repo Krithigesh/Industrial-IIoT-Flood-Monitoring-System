@@ -118,12 +118,9 @@ The complete Arduino source code is available in the repository:
 
 ## Project Link (Wokwi)
 
-Paste your Wokwi simulation link here.
-
-Example:
 
 ```
-https://wokwi.com/projects/xxxxxxxxxxxxxxxx
+]https://wokwi.com/projects/467895784163129345]
 ```
 
 ---
