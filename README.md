@@ -127,12 +127,9 @@ https://wokwi.com/projects/467895784163129345
 
 ## Project Demo
 
-Paste your Google Drive or YouTube demo video link here.
-
-Example:
 
 ```
-https://drive.google.com/xxxxxxxxxxxxxxxx
+https://drive.google.com/file/d/1a08yp4T6cvDvf3fuOD1364BKWfdY8c3u/view?usp=drive_link
 ```
 
 ---
