@@ -113,9 +113,8 @@ The complete Arduino source code is available in the repository:
 
 ## Simulated Circuit
 
-*Insert the Wokwi circuit screenshot here.*
+<img width="978" height="717" alt="image" src="https://github.com/user-attachments/assets/2737c738-d905-445a-b91e-c3a77c52b8a8" />
 
----
 
 ## Project Link (Wokwi)
 
